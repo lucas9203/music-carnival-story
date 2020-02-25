@@ -14,3 +14,11 @@ Scared out of his mind, John Smith met with his instructor. John knew that he wa
 computer science skills. In truth, John really just misses his tractor. John is overwhelmed and is ready
 to head back to the farm. John took a deep breath, turned the door knob, and walked into his instructor's 
 office... 
+
+Ayaz:
+"Sit down John" the instructor said in a calm voice. John, still nervously sweating, took his seat. Much to
+his surprise, the instructor did not insult him or reprimand him for how poorly he was doing in the course.
+Instead his instructor offered help, and began to give advice on different resources on campus he could use
+to get help. Though John was still shaky on his coding, he left the meeting with confidence for the future of 
+his compuster science career at UW-Madison, all because of how thoughtful his instructor was and how much faith
+his instructor had in him.
