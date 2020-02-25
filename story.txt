@@ -1,3 +1,12 @@
 John is a farmer from rural wisconsin. John leads a simple life and has never touched technology more
 advanced than his tractor. One day, John enrolled at UW Madison to learn how to adapt to the new
 technological age. John enrolled in 4 courses, one of which being CS 400.  
+
+Max:
+On his first day in college, he nearly passed out from exhaustion. Bascom hill was the death of him.
+But, worse than the exhaustion, was trying to understand his CS400 lecture. The professor was great,
+the handouts were easy to follow, but the actual programming part made him feel inferior to his 
+classmates. As class was about to end, the teacher called him up, "John Smith, can I talk to you? We
+have an issue".
+
+
