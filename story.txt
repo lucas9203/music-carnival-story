@@ -22,3 +22,9 @@ Instead his instructor offered help, and began to give advice on different resou
 to get help. Though John was still shaky on his coding, he left the meeting with confidence for the future of 
 his compuster science career at UW-Madison, all because of how thoughtful his instructor was and how much faith
 his instructor had in him.
+
+Final:
+This conversation with his professor had seemed to instil a strong sense of confidence in John. All it took
+was someone beleiving in him. Over the next few projects, Johns grade was on the rise. After that semester,
+John wanted to apply his newly learned CS skills. John decided to make a tractor-themed dating app. The app
+made millions and John went on to become the richest man in the world, all because someone beleived in him.
